@@ -1,0 +1,12 @@
+{
+    "Annual Crop Land": "environmental imagery land-use seasonal management agriculture conservation dataset farmland crops planning fields europe divided pattern classification geo-spatial remote-sensing vegetation land-cover",
+    "Forest": "forest environment natural wilderness rural view landscape outdoors wooded woodlands conservation biome botanical earth-observation texture trees ecosystem lush greenery vegetation",
+    "Herbaceous Vegetation Land": "environment nature imagery herbaceous landscape area vegetation plants dataset observation machine-learning analysis agriculture geospatial crops fields pasture earth grassland growth",
+    "Highway or Road": "roads infrastructure urban transportation rural routes traffic cars crossroads vehicles Europe expressway earth elevated autobahn connections bridges interchanges overpass lanes",
+    "Industrial Buildings": "industrial imagery buildings energy facilities production infrastructure manufacturing logistics factory warehouses outdoor complex units storage lots tanks parking roads solar",
+    "Pasture Land": "imagery land rural pasture landscape countryside view landuse space observation dataset agriculture fields farm arable sensing earth classification vegetation plots",
+    "Permanent Crop Land": "imagery land learning rural scenery agriculture farmland machine crops mapping fields permanent earth cultivation sensing harvest landscaping plantation geometry textures",
+    "Residential Buildings": "residential buildings real-estate homes urban houses neighborhood land-use town architecture community development geography district infrastructure settlement space habitation zoning streets",
+    "River": "river imagery natural water rural landscape observation urban waterbody earth earth aquatic tributaries confluence floodplain dams estuary islands surface flow",
+    "Sea or Lake": "imagery sea environment natural lake deep landscape water ecology watery expansive serene seascape ocean earth aquatic geospatial vast undisturbed surface"
+}
